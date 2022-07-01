@@ -16,20 +16,12 @@ const RESOURCES = {
 "flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "665c9b416acf601d286145330c4fed79",
-"/": "665c9b416acf601d286145330c4fed79",
+"index.html": "1bd02bb2050783000d65c6752b2b8068",
+"/": "1bd02bb2050783000d65c6752b2b8068",
 "main.dart.js": "5b197d2d4792a64fb747dfab1c3e6813",
 "manifest.json": "f24b71a1fc4e55b4cdec42037b22047f",
-"splash/img/dark-1x.png": "b7b5164d134d841ba35557b061f07743",
-"splash/img/dark-2x.png": "037d2a36509140f227afa1c08c22779d",
-"splash/img/dark-3x.png": "b2da2592f255920d1dbcccbfb58dc7f1",
-"splash/img/dark-4x.png": "7e380ee99189887d0f4a04c5d6cc955a",
-"splash/img/light-1x.png": "b7b5164d134d841ba35557b061f07743",
-"splash/img/light-2x.png": "037d2a36509140f227afa1c08c22779d",
-"splash/img/light-3x.png": "b2da2592f255920d1dbcccbfb58dc7f1",
-"splash/img/light-4x.png": "7e380ee99189887d0f4a04c5d6cc955a",
 "splash/splash.js": "c6a271349a0cd249bdb6d3c4d12f5dcf",
-"splash/style.css": "b78354eb2b5660c45ba5780a7bb861f9",
+"splash/style.css": "192270c56052dfd03bc8466710de8e0c",
 "version.json": "3db4d3558c0a11dc4942934a8f4524b7"
 };
 
